@@ -6,7 +6,7 @@ Team eYRC-BV#638
 import numpy, wave, struct
 
 # Necessary global variables:
-number_of_files = 6 # Number of files will be tasted
+number_of_files = 5 # Number of files will be tasted
 
 # File info:
 file_name = ""
