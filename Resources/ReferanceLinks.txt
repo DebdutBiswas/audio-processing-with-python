@@ -1,0 +1,12 @@
+http://nbviewer.jupyter.org/github/AllenDowney/ThinkDSP/blob/master/code/scipy2015_demo.ipynb
+
+https://en.wikipedia.org/wiki/Amplitude
+https://en.wikipedia.org/wiki/Frequency
+https://en.wikipedia.org/wiki/Wavelength
+http://stackoverflow.com/questions/7674877/how-to-get-frequency-from-fft-result
+http://stackoverflow.com/questions/4225432/how-to-compute-frequency-of-data-using-fft
+https://en.wikipedia.org/wiki/Discrete_Fourier_transform#Circular_convolution_theorem_and_cross-correlation_theorem
+https://www.youtube.com/watch?v=0ALKGR0I5MA
+https://www.youtube.com/watch?v=t3AEweWweSI
+
+http://stackoverflow.com/questions/3694918/how-to-extract-frequency-associated-with-fft-values-in-python
